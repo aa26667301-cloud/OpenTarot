@@ -1,0 +1,27 @@
+{
+  "id": "relationship",
+  "name_zh_tw": "關係鏡像",
+  "description": "探索自己、對方與關係互動，不代替真實溝通。",
+  "positions": [
+    {
+      "id": "self",
+      "label_zh_tw": "自己",
+      "prompt": "我帶入這段關係的狀態是什麼？"
+    },
+    {
+      "id": "other",
+      "label_zh_tw": "對方",
+      "prompt": "我目前如何理解對方的狀態？"
+    },
+    {
+      "id": "dynamic",
+      "label_zh_tw": "互動",
+      "prompt": "關係正在形成什麼模式？"
+    },
+    {
+      "id": "advice",
+      "label_zh_tw": "建議",
+      "prompt": "什麼做法有助於更清楚地溝通？"
+    }
+  ]
+}

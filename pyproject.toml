@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "opentarot-flow"
+version = "0.1.0"
+description = "Traditional Chinese open-source tarot reflection engine and AI skill."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "OpenTarot contributors"}]
+keywords = ["tarot", "reflection", "ai-skill", "traditional-chinese"]
+
+[project.scripts]
+opentarot = "tarotflow.cli:main"
+
+[tool.setuptools]
+packages = ["tarotflow"]
+
+[tool.setuptools.package-data]
+tarotflow = ["data/*.json", "spreads/*.json"]

@@ -1,0 +1,22 @@
+{
+  "id": "shadow-work",
+  "name_zh_tw": "陰影反思",
+  "description": "探索被忽略、壓抑或尚未整合的心理主題。",
+  "positions": [
+    {
+      "id": "surface",
+      "label_zh_tw": "表層",
+      "prompt": "我現在看見的是什麼？"
+    },
+    {
+      "id": "hidden",
+      "label_zh_tw": "被忽略的部分",
+      "prompt": "有什麼感受或需求容易被忽略？"
+    },
+    {
+      "id": "integration",
+      "label_zh_tw": "整合",
+      "prompt": "如何以更溫和、務實的方式回應？"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "three-card",
+  "name_zh_tw": "過去・現在・建議",
+  "description": "用三張牌形成時間與行動脈絡。",
+  "positions": [
+    {
+      "id": "past",
+      "label_zh_tw": "過去",
+      "prompt": "什麼背景正在影響現在？"
+    },
+    {
+      "id": "present",
+      "label_zh_tw": "現在",
+      "prompt": "核心狀態是什麼？"
+    },
+    {
+      "id": "advice",
+      "label_zh_tw": "建議",
+      "prompt": "下一步可採取什麼態度或行動？"
+    }
+  ]
+}

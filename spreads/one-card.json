@@ -1,0 +1,12 @@
+{
+  "id": "one-card",
+  "name_zh_tw": "單張指引",
+  "description": "用一張牌聚焦當下最值得注意的主題。",
+  "positions": [
+    {
+      "id": "focus",
+      "label_zh_tw": "當下焦點",
+      "prompt": "現在最值得留意的是什麼？"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "career",
+  "name_zh_tw": "工作方向",
+  "description": "用於工作選擇、專案與職涯反思。",
+  "positions": [
+    {
+      "id": "current",
+      "label_zh_tw": "現況",
+      "prompt": "目前工作核心狀態是什麼？"
+    },
+    {
+      "id": "strength",
+      "label_zh_tw": "可用優勢",
+      "prompt": "現在可運用的資源或能力是什麼？"
+    },
+    {
+      "id": "challenge",
+      "label_zh_tw": "挑戰",
+      "prompt": "什麼因素最值得正視？"
+    },
+    {
+      "id": "next",
+      "label_zh_tw": "下一步",
+      "prompt": "可先採取哪個可驗證的小行動？"
+    }
+  ]
+}
