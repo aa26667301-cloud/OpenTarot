@@ -19,7 +19,7 @@ OpenTarot 不是「算命保證器」，而是一套可被網站、Bot、AI Agen
 ## 快速開始
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/aa26667301-cloud/OpenTarot.git
 cd OpenTarot
 python -m tarotflow.cli --spread three-card --question "我最近的工作方向要注意什麼？"
 ```
@@ -93,3 +93,4 @@ print(interpret_reading(reading, question="我下一步該把力氣放在哪？"
 ## License
 
 MIT。程式與本專案原創資料可依授權使用；第三方圖像或外部資料仍以各自授權為準。
+
